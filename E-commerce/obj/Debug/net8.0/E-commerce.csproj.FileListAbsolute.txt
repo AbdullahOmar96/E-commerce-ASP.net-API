@@ -1,0 +1,484 @@
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\appsettings.Development.json
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\appsettings.json
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.exe
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.deps.json
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.runtimeconfig.json
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.csproj.AssemblyReference.cache
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfoInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfo.cs
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cs
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cache
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\staticwebassets.build.json
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\staticwebassets.development.json
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce.props
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.props
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce.props
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\staticwebassets.pack.json
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\scopedcss\bundle\E-commerce.styles.css
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.csproj.Up2Date
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\refint\E-commerce.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.genruntimeconfig.cache
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\obj\Debug\net8.0\ref\E-commerce.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\AutoMapper.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Azure.Core.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Azure.Identity.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\System.Memory.Data.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Context.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Dtos.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Models.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Repository.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Services.dll
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Context.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Dtos.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Repository.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Services.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\E-commerce\bin\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\appsettings.Development.json
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\appsettings.json
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\E-commerce.exe
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\E-commerce.deps.json
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\E-commerce.runtimeconfig.json
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\E-commerce.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\E-commerce.pdb
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\AutoMapper.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Azure.Core.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Azure.Identity.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\System.Memory.Data.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Context.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Dtos.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Models.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Repository.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Services.dll
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Context.pdb
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Dtos.pdb
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Repository.pdb
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Services.pdb
+D:\iti\GIS .net\Api\APi\E-commerce\bin\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.csproj.AssemblyReference.cache
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfoInputs.cache
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfo.cs
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cs
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cache
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\staticwebassets.build.json
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\staticwebassets.development.json
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce.props
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.props
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce.props
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\staticwebassets.pack.json
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\scopedcss\bundle\E-commerce.styles.css
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.csproj.Up2Date
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.dll
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\refint\E-commerce.dll
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.pdb
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\E-commerce.genruntimeconfig.cache
+D:\iti\GIS .net\Api\APi\E-commerce\obj\Debug\net8.0\ref\E-commerce.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.csproj.AssemblyReference.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\refint\E-commerce.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\appsettings.Development.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\appsettings.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\E-commerce.exe
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\E-commerce.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\E-commerce.runtimeconfig.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\E-commerce.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\E-commerce.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\AutoMapper.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Azure.Core.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Azure.Identity.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Memory.Data.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Services.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Context.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Dtos.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Repository.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Services.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\staticwebassets.build.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\staticwebassets.development.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce.props
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.props
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce.props
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\staticwebassets.pack.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\scopedcss\bundle\E-commerce.styles.css
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.csproj.Up2Date
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\E-commerce.genruntimeconfig.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\obj\Debug\net8.0\ref\E-commerce.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Humanizer.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.CodeDom.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\appsettings.Development.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\appsettings.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\E-commerce.exe
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\E-commerce.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\E-commerce.runtimeconfig.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\E-commerce.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\E-commerce.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\AutoMapper.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Azure.Core.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Azure.Identity.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Humanizer.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.CodeDom.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Memory.Data.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Services.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Context.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Dtos.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Repository.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Services.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\bin\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.csproj.AssemblyReference.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.MvcApplicationPartsAssemblyInfo.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\staticwebassets.build.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\staticwebassets.development.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.build.E-commerce.props
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce.props
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-commerce.props
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\staticwebassets.pack.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\scopedcss\bundle\E-commerce.styles.css
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.csproj.Up2Date
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\refint\E-commerce.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\E-commerce.genruntimeconfig.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\E-commerce\obj\Debug\net8.0\ref\E-commerce.dll

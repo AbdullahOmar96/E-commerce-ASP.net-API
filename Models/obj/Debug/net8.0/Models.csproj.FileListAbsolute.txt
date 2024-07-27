@@ -1,0 +1,48 @@
+D:\iti\GIS .net\e-commerce\E-commerce\Models\bin\Debug\net8.0\Models.deps.json
+D:\iti\GIS .net\e-commerce\E-commerce\Models\bin\Debug\net8.0\Models.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Models\bin\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\e-commerce\E-commerce\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\iti\GIS .net\e-commerce\E-commerce\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Models\obj\Debug\net8.0\Models.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Models\obj\Debug\net8.0\refint\Models.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Models\obj\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Models\obj\Debug\net8.0\ref\Models.dll
+D:\iti\GIS .net\Api\APi\Models\bin\Debug\net8.0\Models.deps.json
+D:\iti\GIS .net\Api\APi\Models\bin\Debug\net8.0\Models.dll
+D:\iti\GIS .net\Api\APi\Models\bin\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\Api\APi\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\iti\GIS .net\Api\APi\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\Api\APi\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\iti\GIS .net\Api\APi\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\iti\GIS .net\Api\APi\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\Api\APi\Models\obj\Debug\net8.0\Models.dll
+D:\iti\GIS .net\Api\APi\Models\obj\Debug\net8.0\refint\Models.dll
+D:\iti\GIS .net\Api\APi\Models\obj\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\Api\APi\Models\obj\Debug\net8.0\ref\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\bin\Debug\net8.0\Models.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\bin\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\bin\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\obj\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\obj\Debug\net8.0\refint\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\obj\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Models\obj\Debug\net8.0\ref\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\bin\Debug\net8.0\Models.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\bin\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\bin\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\obj\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\obj\Debug\net8.0\refint\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\obj\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Models\obj\Debug\net8.0\ref\Models.dll

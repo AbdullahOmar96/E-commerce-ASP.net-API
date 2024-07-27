@@ -1,0 +1,44 @@
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\bin\Debug\net8.0\Dtos.deps.json
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\bin\Debug\net8.0\Dtos.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\bin\Debug\net8.0\Dtos.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\obj\Debug\net8.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfoInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfo.cs
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\obj\Debug\net8.0\Dtos.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\obj\Debug\net8.0\Dtos.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\obj\Debug\net8.0\refint\Dtos.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\obj\Debug\net8.0\Dtos.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Dtos\obj\Debug\net8.0\ref\Dtos.dll
+D:\iti\GIS .net\Api\APi\Dtos\bin\Debug\net8.0\Dtos.deps.json
+D:\iti\GIS .net\Api\APi\Dtos\bin\Debug\net8.0\Dtos.dll
+D:\iti\GIS .net\Api\APi\Dtos\bin\Debug\net8.0\Dtos.pdb
+D:\iti\GIS .net\Api\APi\Dtos\obj\Debug\net8.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\Api\APi\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfoInputs.cache
+D:\iti\GIS .net\Api\APi\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfo.cs
+D:\iti\GIS .net\Api\APi\Dtos\obj\Debug\net8.0\Dtos.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\Api\APi\Dtos\obj\Debug\net8.0\Dtos.dll
+D:\iti\GIS .net\Api\APi\Dtos\obj\Debug\net8.0\refint\Dtos.dll
+D:\iti\GIS .net\Api\APi\Dtos\obj\Debug\net8.0\Dtos.pdb
+D:\iti\GIS .net\Api\APi\Dtos\obj\Debug\net8.0\ref\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\bin\Debug\net8.0\Dtos.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\bin\Debug\net8.0\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\bin\Debug\net8.0\Dtos.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\obj\Debug\net8.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\obj\Debug\net8.0\Dtos.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\obj\Debug\net8.0\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\obj\Debug\net8.0\refint\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\obj\Debug\net8.0\Dtos.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Dtos\obj\Debug\net8.0\ref\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\bin\Debug\net8.0\Dtos.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\bin\Debug\net8.0\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\bin\Debug\net8.0\Dtos.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\obj\Debug\net8.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\obj\Debug\net8.0\Dtos.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\obj\Debug\net8.0\Dtos.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\obj\Debug\net8.0\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\obj\Debug\net8.0\refint\Dtos.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\obj\Debug\net8.0\Dtos.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Dtos\obj\Debug\net8.0\ref\Dtos.dll

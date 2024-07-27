@@ -1,0 +1,832 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|solutionrelative:repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|solutionrelative:repository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\e-commerce\\controllers\\productcontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|solutionrelative:e-commerce\\controllers\\productcontroller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\userservices\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\userservices\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\userservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\userservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\productservices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\productservices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\productservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\productservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\orderservices\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\orderservices\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\orderservices\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\orderservices\\iorderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\orderdetailsservices\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\orderdetailsservices\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\orderdetailsservices\\iorderdetailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\orderdetailsservices\\iorderdetailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\mapper\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\genericservices\\igenericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\genericservices\\igenericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\genericservices\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\genericservices\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\categoryservices\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\categoryservices\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\categoryservices\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\categoryservices\\categoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7E9B999-65F7-4401-8F54-91EF3507DFDA}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA1AB22-7BB1-4458-8EAE-134B2EF3DABD}|Repository\\Repository.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|solutionrelative:models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C071BF-1D54-42B4-A2EB-B4F886AA8786}|Models\\Models.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\e-commerce\\controllers\\usercontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|solutionrelative:e-commerce\\controllers\\usercontroller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\e-commerce\\controllers\\orderdetailscontroller\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|solutionrelative:e-commerce\\controllers\\orderdetailscontroller\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\e-commerce\\controllers\\ordercontroller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|solutionrelative:e-commerce\\controllers\\ordercontroller\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\e-commerce\\controllers\\categorycontroller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|solutionrelative:e-commerce\\controllers\\categorycontroller\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\e-commerce\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|solutionrelative:e-commerce\\controllers\\authcontroller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\e-commerce\\e-commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3BE0D1B-4825-4AF1-BD75-F4B44E69F573}|E-commerce\\E-commerce.csproj|solutionrelative:e-commerce\\e-commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\dtos\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\dtos\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\dtos\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\dtos\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\dtos\\dtos\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\dtos\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\dtos\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC329D19-677D-45B1-A618-A7129B4CD6D2}|Dtos\\Dtos.csproj|solutionrelative:dtos\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B797E66-A5A7-48E0-A7CA-BA362808C1E6}|Context\\Context.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\context\\e_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B797E66-A5A7-48E0-A7CA-BA362808C1E6}|Context\\Context.csproj|solutionrelative:context\\e_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B797E66-A5A7-48E0-A7CA-BA362808C1E6}|Context\\Context.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\context\\context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B797E66-A5A7-48E0-A7CA-BA362808C1E6}|Context\\Context.csproj|solutionrelative:context\\context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\APi\\Context\\Migrations\\20240425195051_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cpu\\AppData\\Local\\Temp\\Rar$DIa16624.20991\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416214537_init11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416213648_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B797E66-A5A7-48E0-A7CA-BA362808C1E6}|Context\\Context.csproj|d:\\programming\\9months\\programming\\backend\\.net\\api project\\2\\api\\e-commerce asp.net api\\context\\migrations\\20240425210858_inita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B797E66-A5A7-48E0-A7CA-BA362808C1E6}|Context\\Context.csproj|solutionrelative:context\\migrations\\20240425210858_inita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 39,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:30:50.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetailsRepository.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\OrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderDetailsRepository.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\OrderDetailsRepository.cs",
+              "RelativeToolTip": "Repository\\OrderDetailsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:34:32.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\UserServices\\UserServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices\\UserServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\UserServices\\UserServices.cs",
+              "RelativeToolTip": "Services\\UserServices\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:03:25.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\OrderDetailsServices\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Services\\OrderDetailsServices\\OrderDetails.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\OrderDetailsServices\\OrderDetails.cs",
+              "RelativeToolTip": "Services\\OrderDetailsServices\\OrderDetails.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:42:04.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\OrderRepository.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\OrderRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:10:06.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-commerce\\Program.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Program.cs",
+              "RelativeToolTip": "E-commerce\\Program.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAqwJkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:33:05.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T22:42:14.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\UserServices\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Services\\UserServices\\IUserServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\UserServices\\IUserServices.cs",
+              "RelativeToolTip": "Services\\UserServices\\IUserServices.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:03:19.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\ProductServices\\ProductServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductServices\\ProductServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\ProductServices\\ProductServices.cs",
+              "RelativeToolTip": "Services\\ProductServices\\ProductServices.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:41:02.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\ProductController\\ProductController.cs",
+              "RelativeDocumentMoniker": "E-commerce\\Controllers\\ProductController\\ProductController.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\ProductController\\ProductController.cs",
+              "RelativeToolTip": "E-commerce\\Controllers\\ProductController\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:35:18.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\ProductServices\\IProductServices.cs",
+              "RelativeDocumentMoniker": "Services\\ProductServices\\IProductServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\ProductServices\\IProductServices.cs",
+              "RelativeToolTip": "Services\\ProductServices\\IProductServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:40:48.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\OrderServices\\OrderServices.cs",
+              "RelativeDocumentMoniker": "Services\\OrderServices\\OrderServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\OrderServices\\OrderServices.cs",
+              "RelativeToolTip": "Services\\OrderServices\\OrderServices.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:52:29.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrderServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\OrderServices\\IOrderServices.cs",
+              "RelativeDocumentMoniker": "Services\\OrderServices\\IOrderServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\OrderServices\\IOrderServices.cs",
+              "RelativeToolTip": "Services\\OrderServices\\IOrderServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:52:45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderDetailsServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\OrderDetailsServices\\IOrderDetailsServices.cs",
+              "RelativeDocumentMoniker": "Services\\OrderDetailsServices\\IOrderDetailsServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\OrderDetailsServices\\IOrderDetailsServices.cs",
+              "RelativeToolTip": "Services\\OrderDetailsServices\\IOrderDetailsServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:41:50.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\Mapper\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Services\\Mapper\\MapperProfile.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\Mapper\\MapperProfile.cs",
+              "RelativeToolTip": "Services\\Mapper\\MapperProfile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:34:21.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\GenericServices\\IGenericServices.cs",
+              "RelativeDocumentMoniker": "Services\\GenericServices\\IGenericServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\GenericServices\\IGenericServices.cs",
+              "RelativeToolTip": "Services\\GenericServices\\IGenericServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:52:46.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\GenericServices\\GenericServices.cs",
+              "RelativeDocumentMoniker": "Services\\GenericServices\\GenericServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\GenericServices\\GenericServices.cs",
+              "RelativeToolTip": "Services\\GenericServices\\GenericServices.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:52:49.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\CategoryServices\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryServices\\ICategoryServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\CategoryServices\\ICategoryServices.cs",
+              "RelativeToolTip": "Services\\CategoryServices\\ICategoryServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:58:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryServices.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\CategoryServices\\CategoryServices.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryServices\\CategoryServices.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\CategoryServices\\CategoryServices.cs",
+              "RelativeToolTip": "Services\\CategoryServices\\CategoryServices.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:57:26.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T20:52:06.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:25:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:55:21.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:02:11.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetails.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:52:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:39:05.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:02:29.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\appsettings.json",
+              "RelativeDocumentMoniker": "E-commerce\\appsettings.json",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\appsettings.json",
+              "RelativeToolTip": "E-commerce\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T02:51:24.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\UserController\\UserController.cs",
+              "RelativeDocumentMoniker": "E-commerce\\Controllers\\UserController\\UserController.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\UserController\\UserController.cs",
+              "RelativeToolTip": "E-commerce\\Controllers\\UserController\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:35:47.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\OrderDetailsController\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "E-commerce\\Controllers\\OrderDetailsController\\OrderDetailsController.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\OrderDetailsController\\OrderDetailsController.cs",
+              "RelativeToolTip": "E-commerce\\Controllers\\OrderDetailsController\\OrderDetailsController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAQwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:35:05.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\OrderController\\OrderController.cs",
+              "RelativeDocumentMoniker": "E-commerce\\Controllers\\OrderController\\OrderController.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\OrderController\\OrderController.cs",
+              "RelativeToolTip": "E-commerce\\Controllers\\OrderController\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:40:53.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\CategoryController\\CategoryController.cs",
+              "RelativeDocumentMoniker": "E-commerce\\Controllers\\CategoryController\\CategoryController.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\CategoryController\\CategoryController.cs",
+              "RelativeToolTip": "E-commerce\\Controllers\\CategoryController\\CategoryController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:31:39.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\AuthController\\AuthController.cs",
+              "RelativeDocumentMoniker": "E-commerce\\Controllers\\AuthController\\AuthController.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\Controllers\\AuthController\\AuthController.cs",
+              "RelativeToolTip": "E-commerce\\Controllers\\AuthController\\AuthController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T20:10:04.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "E-commerce.csproj",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\E-commerce.csproj",
+              "RelativeDocumentMoniker": "E-commerce\\E-commerce.csproj",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\E-commerce\\E-commerce.csproj",
+              "RelativeToolTip": "E-commerce\\E-commerce.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T19:44:01.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\DTOS\\UserDto.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\UserDto.cs",
+              "RelativeToolTip": "Dtos\\DTOS\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:54:34.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\DTOS\\RegisterDto.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\RegisterDto.cs",
+              "RelativeToolTip": "Dtos\\DTOS\\RegisterDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:49:21.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\DTOS\\ProductDTO.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\ProductDTO.cs",
+              "RelativeToolTip": "Dtos\\DTOS\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:55:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\DTOS\\OrderDTO.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\OrderDTO.cs",
+              "RelativeToolTip": "Dtos\\DTOS\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:54:16.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderDetailsDTO.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\OrderDetailsDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\DTOS\\OrderDetailsDTO.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\OrderDetailsDTO.cs",
+              "RelativeToolTip": "Dtos\\DTOS\\OrderDetailsDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T20:54:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\DTOS\\LoginDto.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\LoginDto.cs",
+              "RelativeToolTip": "Dtos\\DTOS\\LoginDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T23:51:08.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "Dtos\\DTOS\\CategoryDTO.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Dtos\\DTOS\\CategoryDTO.cs",
+              "RelativeToolTip": "Dtos\\DTOS\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:16:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "E_Context.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Context\\E_Context.cs",
+              "RelativeDocumentMoniker": "Context\\E_Context.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Context\\E_Context.cs",
+              "RelativeToolTip": "Context\\E_Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:55:48.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240425210858_inita.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Context\\Migrations\\20240425210858_inita.cs",
+              "RelativeDocumentMoniker": "Context\\Migrations\\20240425210858_inita.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Context\\Migrations\\20240425210858_inita.cs",
+              "RelativeToolTip": "Context\\Migrations\\20240425210858_inita.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAwwOEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:08:59.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Context.csproj",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Context\\Context.csproj",
+              "RelativeDocumentMoniker": "Context\\Context.csproj",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\E-commerce ASP.net API\\Context\\Context.csproj",
+              "RelativeToolTip": "Context\\Context.csproj",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAiwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T19:46:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240425195051_init.cs",
+              "DocumentMoniker": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\APi\\Context\\Migrations\\20240425195051_init.cs",
+              "RelativeDocumentMoniker": "..\\APi\\Context\\Migrations\\20240425195051_init.cs",
+              "ToolTip": "D:\\programming\\9months\\programming\\Backend\\.net\\api project\\2\\APi\\APi\\Context\\Migrations\\20240425195051_init.cs",
+              "RelativeToolTip": "..\\APi\\Context\\Migrations\\20240425195051_init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:50:52.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\cpu\\AppData\\Local\\Temp\\Rar$DIa16624.20991\\AccountController.cs",
+              "ToolTip": "C:\\Users\\cpu\\AppData\\Local\\Temp\\Rar$DIa16624.20991\\AccountController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T19:30:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240416213648_init1.cs",
+              "DocumentMoniker": "D:\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416213648_init1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416213648_init1.cs",
+              "ToolTip": "D:\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416213648_init1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416213648_init1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:36:48.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240416214537_init11.cs",
+              "DocumentMoniker": "D:\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416214537_init11.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416214537_init11.cs",
+              "ToolTip": "D:\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416214537_init11.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\iti\\GIS .net\\e-commerce\\E-commerce\\Context\\Migrations\\20240416214537_init11.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:45:37.633Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 14,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

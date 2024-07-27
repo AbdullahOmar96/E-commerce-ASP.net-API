@@ -1,0 +1,68 @@
+D:\iti\GIS .net\e-commerce\E-commerce\Context\bin\Debug\net8.0\Context.deps.json
+D:\iti\GIS .net\e-commerce\E-commerce\Context\bin\Debug\net8.0\Context.runtimeconfig.json
+D:\iti\GIS .net\e-commerce\E-commerce\Context\bin\Debug\net8.0\Context.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Context\bin\Debug\net8.0\Context.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Context\bin\Debug\net8.0\Models.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Context\bin\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\Context.csproj.Up2Date
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\Context.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\refint\Context.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\Context.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\Context.genruntimeconfig.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Context\obj\Debug\net8.0\ref\Context.dll
+D:\iti\GIS .net\Api\APi\Context\bin\Debug\net8.0\Context.deps.json
+D:\iti\GIS .net\Api\APi\Context\bin\Debug\net8.0\Context.runtimeconfig.json
+D:\iti\GIS .net\Api\APi\Context\bin\Debug\net8.0\Context.dll
+D:\iti\GIS .net\Api\APi\Context\bin\Debug\net8.0\Context.pdb
+D:\iti\GIS .net\Api\APi\Context\bin\Debug\net8.0\Models.dll
+D:\iti\GIS .net\Api\APi\Context\bin\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\Context.csproj.Up2Date
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\Context.dll
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\refint\Context.dll
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\Context.pdb
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\Context.genruntimeconfig.cache
+D:\iti\GIS .net\Api\APi\Context\obj\Debug\net8.0\ref\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\bin\Debug\net8.0\Context.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\bin\Debug\net8.0\Context.runtimeconfig.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\bin\Debug\net8.0\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\bin\Debug\net8.0\Context.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\bin\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\bin\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\Context.csproj.Up2Date
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\refint\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\Context.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\Context.genruntimeconfig.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Context\obj\Debug\net8.0\ref\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\bin\Debug\net8.0\Context.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\bin\Debug\net8.0\Context.runtimeconfig.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\bin\Debug\net8.0\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\bin\Debug\net8.0\Context.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\bin\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\bin\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\Context.csproj.AssemblyReference.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\Context.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\Context.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\Context.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\Context.csproj.Up2Date
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\refint\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\Context.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\Context.genruntimeconfig.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Context\obj\Debug\net8.0\ref\Context.dll

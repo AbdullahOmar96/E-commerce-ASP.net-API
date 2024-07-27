@@ -1,0 +1,68 @@
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\bin\Debug\net8.0\Repository.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\bin\Debug\net8.0\Repository.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\Repository.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\Repository.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\bin\Debug\net8.0\Context.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\bin\Debug\net8.0\Models.dll
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\bin\Debug\net8.0\Context.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\bin\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\iti\GIS .net\e-commerce\E-commerce\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\iti\GIS .net\Api\APi\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\iti\GIS .net\Api\APi\Repository\bin\Debug\net8.0\Repository.dll
+D:\iti\GIS .net\Api\APi\Repository\bin\Debug\net8.0\Repository.pdb
+D:\iti\GIS .net\Api\APi\Repository\bin\Debug\net8.0\Context.dll
+D:\iti\GIS .net\Api\APi\Repository\bin\Debug\net8.0\Models.dll
+D:\iti\GIS .net\Api\APi\Repository\bin\Debug\net8.0\Context.pdb
+D:\iti\GIS .net\Api\APi\Repository\bin\Debug\net8.0\Models.pdb
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\Repository.dll
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\Repository.pdb
+D:\iti\GIS .net\Api\APi\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\bin\Debug\net8.0\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\bin\Debug\net8.0\Repository.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\bin\Debug\net8.0\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\bin\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\bin\Debug\net8.0\Context.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\bin\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\Repository.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\APi\Repository\obj\Debug\net8.0\ref\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\bin\Debug\net8.0\Repository.deps.json
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\bin\Debug\net8.0\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\bin\Debug\net8.0\Repository.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\bin\Debug\net8.0\Context.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\bin\Debug\net8.0\Models.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\bin\Debug\net8.0\Context.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\bin\Debug\net8.0\Models.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\refint\Repository.dll
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\Repository.pdb
+D:\programming\9months\programming\Backend\.net\api project\2\APi\E-commerce ASP.net API\Repository\obj\Debug\net8.0\ref\Repository.dll
